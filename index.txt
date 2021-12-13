@@ -2,3 +2,5 @@
 这是readme.txt文件
 这是一个学习git的git项目
 
+git is a distributed version control system
+
